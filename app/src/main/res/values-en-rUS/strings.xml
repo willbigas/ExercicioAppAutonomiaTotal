@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_carroNome">Car Name</string>
+    <string name="hint_nomeCarro">Enter car name</string>
+    <string name="text_kmPercorrida">Km traveled</string>
+    <string name="hint_kmPercorrida">"How many km have you covered? "</string>
+    <string name="text_qtdCombustivel">Amount of Fuel</string>
+    <string name="hint_qtdCombustivel">"How much fuel was spent? "</string>
+    <string name="text_calcular">Calculate</string>
+    <string name="text_limparDados">Clear Data</string>
+    <string name="text_consumoMedioFrota">"Average Fleet Consumption: "</string>
+    <string name="required_nomeCarro">Car name is a required field</string>
+    <string name="required_kmPercorrido">Km Traveled is a mandatory field</string>
+    <string name="required_combustivelGasto">Spent fuel is a required field</string>
+</resources>
